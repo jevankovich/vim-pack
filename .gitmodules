@@ -1,0 +1,6 @@
+[submodule "default/start/vim-sensible"]
+	path = default/start/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "default/start/vim-polyglot"]
+	path = default/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
